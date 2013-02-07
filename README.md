@@ -1,4 +1,4 @@
-# Table and Friends iOS Application
+# Table and Friends iOS Application (non-oficial)
 
 ## About
 
