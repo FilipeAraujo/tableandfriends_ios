@@ -24,6 +24,29 @@
 		FD32F56716BA0E5600D03C75 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD32F54616BA0E5600D03C75 /* CoreData.framework */; };
 		FD32F56F16BA0E5600D03C75 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FD32F56D16BA0E5600D03C75 /* InfoPlist.strings */; };
 		FD32F57216BA0E5600D03C75 /* tableandfriends_iOSTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FD32F57116BA0E5600D03C75 /* tableandfriends_iOSTests.m */; };
+		FD32F57C16BA0E8D00D03C75 /* iPhone_Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FD32F57B16BA0E8D00D03C75 /* iPhone_Storyboard.storyboard */; };
+		FD32F57E16BA105600D03C75 /* ribbon.png in Resources */ = {isa = PBXBuildFile; fileRef = FD32F57D16BA105600D03C75 /* ribbon.png */; };
+		FD32F58016BA10B700D03C75 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = FD32F57F16BA10B700D03C75 /* logo.png */; };
+		FD32F58216BA141D00D03C75 /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FD32F58116BA141D00D03C75 /* bg.jpg */; };
+		FD32F58516BA172500D03C75 /* tfHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD32F58416BA172500D03C75 /* tfHomeViewController.m */; };
+		FD32F58616BA1C0600D03C75 /* iPhone_Storyboard.storyboard in Sources */ = {isa = PBXBuildFile; fileRef = FD32F57B16BA0E8D00D03C75 /* iPhone_Storyboard.storyboard */; };
+		FD32F58816BA1C7B00D03C75 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD32F58716BA1C7B00D03C75 /* QuartzCore.framework */; };
+		FD32F58B16BA227F00D03C75 /* blueButton.png in Resources */ = {isa = PBXBuildFile; fileRef = FD32F58916BA227F00D03C75 /* blueButton.png */; };
+		FD32F58C16BA227F00D03C75 /* blueButtonHighlight.png in Resources */ = {isa = PBXBuildFile; fileRef = FD32F58A16BA227F00D03C75 /* blueButtonHighlight.png */; };
+		FD32F59916BA2F9A00D03C75 /* list.png in Resources */ = {isa = PBXBuildFile; fileRef = FD32F59616BA2F9A00D03C75 /* list.png */; };
+		FD32F59B16BA2F9A00D03C75 /* users.png in Resources */ = {isa = PBXBuildFile; fileRef = FD32F59816BA2F9A00D03C75 /* users.png */; };
+		FD32F59D16BA382F00D03C75 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD32F59C16BA382F00D03C75 /* FacebookSDK.framework */; };
+		FD32F5A016BA384E00D03C75 /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD32F59E16BA384E00D03C75 /* Accounts.framework */; };
+		FD32F5A116BA384E00D03C75 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FD32F59F16BA384E00D03C75 /* AdSupport.framework */; };
+		FD3F90F316BAF8C900049958 /* tfDinnersListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F90F216BAF8C900049958 /* tfDinnersListViewController.m */; };
+		FD3F90F516BAFB7600049958 /* facebooklogin.png in Resources */ = {isa = PBXBuildFile; fileRef = FD3F90F416BAFB7600049958 /* facebooklogin.png */; };
+		FD3F90F716BAFE1C00049958 /* marquee-plus_new.png in Resources */ = {isa = PBXBuildFile; fileRef = FD3F90F616BAFE1C00049958 /* marquee-plus_new.png */; };
+		FD3F92F016BB18C900049958 /* logo114_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = FD3F92EF16BB18C900049958 /* logo114_57x57.png */; };
+		FD3F92F516BB4B5200049958 /* tfDinner.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F92F416BB4B5200049958 /* tfDinner.m */; };
+		FD3F92F816BC340C00049958 /* tfTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F92F716BC340C00049958 /* tfTableViewCell.m */; };
+		FD3F92FB16C00FEF00049958 /* tfCreateDinnerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F92FA16C00FEF00049958 /* tfCreateDinnerViewController.m */; };
+		FD3F930016C0108E00049958 /* tfFacebookFriend.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F92FF16C0108E00049958 /* tfFacebookFriend.m */; };
+		FD3F930616C02D2D00049958 /* tfCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F930516C02D2D00049958 /* tfCollectionViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +81,60 @@
 		FD32F56E16BA0E5600D03C75 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FD32F57016BA0E5600D03C75 /* tableandfriends_iOSTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tableandfriends_iOSTests.h; sourceTree = "<group>"; };
 		FD32F57116BA0E5600D03C75 /* tableandfriends_iOSTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tableandfriends_iOSTests.m; sourceTree = "<group>"; };
+		FD32F57B16BA0E8D00D03C75 /* iPhone_Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = iPhone_Storyboard.storyboard; sourceTree = "<group>"; };
+		FD32F57D16BA105600D03C75 /* ribbon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ribbon.png; sourceTree = "<group>"; };
+		FD32F57F16BA10B700D03C75 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		FD32F58116BA141D00D03C75 /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
+		FD32F58316BA172500D03C75 /* tfHomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfHomeViewController.h; sourceTree = "<group>"; };
+		FD32F58416BA172500D03C75 /* tfHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfHomeViewController.m; sourceTree = "<group>"; };
+		FD32F58716BA1C7B00D03C75 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		FD32F58916BA227F00D03C75 /* blueButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueButton.png; sourceTree = "<group>"; };
+		FD32F58A16BA227F00D03C75 /* blueButtonHighlight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueButtonHighlight.png; sourceTree = "<group>"; };
+		FD32F59616BA2F9A00D03C75 /* list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = list.png; sourceTree = "<group>"; };
+		FD32F59816BA2F9A00D03C75 /* users.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = users.png; sourceTree = "<group>"; };
+		FD32F59C16BA382F00D03C75 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookSDK.framework; path = ../../../../FacebookSDK/FacebookSDK.framework; sourceTree = "<group>"; };
+		FD32F59E16BA384E00D03C75 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
+		FD32F59F16BA384E00D03C75 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
+		FD3F90F116BAF8C900049958 /* tfDinnersListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfDinnersListViewController.h; sourceTree = "<group>"; };
+		FD3F90F216BAF8C900049958 /* tfDinnersListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfDinnersListViewController.m; sourceTree = "<group>"; };
+		FD3F90F416BAFB7600049958 /* facebooklogin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebooklogin.png; sourceTree = "<group>"; };
+		FD3F90F616BAFE1C00049958 /* marquee-plus_new.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "marquee-plus_new.png"; sourceTree = "<group>"; };
+		FD3F911616BB021F00049958 /* NSObject+SBJson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSObject+SBJson.h"; sourceTree = "<group>"; };
+		FD3F911716BB021F00049958 /* NSObject+SBJson.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SBJson.m"; sourceTree = "<group>"; };
+		FD3F911816BB021F00049958 /* SBJson.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJson.h; sourceTree = "<group>"; };
+		FD3F911916BB021F00049958 /* SBJsonParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonParser.h; sourceTree = "<group>"; };
+		FD3F911A16BB021F00049958 /* SBJsonParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonParser.m; sourceTree = "<group>"; };
+		FD3F911B16BB021F00049958 /* SBJsonStreamParser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParser.h; sourceTree = "<group>"; };
+		FD3F911C16BB021F00049958 /* SBJsonStreamParser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParser.m; sourceTree = "<group>"; };
+		FD3F911D16BB021F00049958 /* SBJsonStreamParserAccumulator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParserAccumulator.h; sourceTree = "<group>"; };
+		FD3F911E16BB021F00049958 /* SBJsonStreamParserAccumulator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParserAccumulator.m; sourceTree = "<group>"; };
+		FD3F911F16BB021F00049958 /* SBJsonStreamParserAdapter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParserAdapter.h; sourceTree = "<group>"; };
+		FD3F912016BB021F00049958 /* SBJsonStreamParserAdapter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParserAdapter.m; sourceTree = "<group>"; };
+		FD3F912116BB021F00049958 /* SBJsonStreamParserState.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamParserState.h; sourceTree = "<group>"; };
+		FD3F912216BB021F00049958 /* SBJsonStreamParserState.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamParserState.m; sourceTree = "<group>"; };
+		FD3F912316BB021F00049958 /* SBJsonStreamWriter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamWriter.h; sourceTree = "<group>"; };
+		FD3F912416BB021F00049958 /* SBJsonStreamWriter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamWriter.m; sourceTree = "<group>"; };
+		FD3F912516BB021F00049958 /* SBJsonStreamWriterAccumulator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamWriterAccumulator.h; sourceTree = "<group>"; };
+		FD3F912616BB021F00049958 /* SBJsonStreamWriterAccumulator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamWriterAccumulator.m; sourceTree = "<group>"; };
+		FD3F912716BB021F00049958 /* SBJsonStreamWriterState.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonStreamWriterState.h; sourceTree = "<group>"; };
+		FD3F912816BB021F00049958 /* SBJsonStreamWriterState.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonStreamWriterState.m; sourceTree = "<group>"; };
+		FD3F912916BB021F00049958 /* SBJsonTokeniser.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonTokeniser.h; sourceTree = "<group>"; };
+		FD3F912A16BB021F00049958 /* SBJsonTokeniser.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonTokeniser.m; sourceTree = "<group>"; };
+		FD3F912B16BB021F00049958 /* SBJsonUTF8Stream.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonUTF8Stream.h; sourceTree = "<group>"; };
+		FD3F912C16BB021F00049958 /* SBJsonUTF8Stream.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonUTF8Stream.m; sourceTree = "<group>"; };
+		FD3F912D16BB021F00049958 /* SBJsonWriter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
+		FD3F912E16BB021F00049958 /* SBJsonWriter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
+		FD3F92EF16BB18C900049958 /* logo114_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo114_57x57.png; path = ../logo114_57x57.png; sourceTree = "<group>"; };
+		FD3F92F316BB4B5200049958 /* tfDinner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfDinner.h; sourceTree = "<group>"; };
+		FD3F92F416BB4B5200049958 /* tfDinner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfDinner.m; sourceTree = "<group>"; };
+		FD3F92F616BC340C00049958 /* tfTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfTableViewCell.h; sourceTree = "<group>"; };
+		FD3F92F716BC340C00049958 /* tfTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfTableViewCell.m; sourceTree = "<group>"; };
+		FD3F92F916C00FEF00049958 /* tfCreateDinnerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfCreateDinnerViewController.h; sourceTree = "<group>"; };
+		FD3F92FA16C00FEF00049958 /* tfCreateDinnerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfCreateDinnerViewController.m; sourceTree = "<group>"; };
+		FD3F92FE16C0108E00049958 /* tfFacebookFriend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfFacebookFriend.h; sourceTree = "<group>"; };
+		FD3F92FF16C0108E00049958 /* tfFacebookFriend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfFacebookFriend.m; sourceTree = "<group>"; };
+		FD3F930416C02D2D00049958 /* tfCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfCollectionViewCell.h; sourceTree = "<group>"; };
+		FD3F930516C02D2D00049958 /* tfCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfCollectionViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +142,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD32F5A016BA384E00D03C75 /* Accounts.framework in Frameworks */,
+				FD32F5A116BA384E00D03C75 /* AdSupport.framework in Frameworks */,
+				FD32F59D16BA382F00D03C75 /* FacebookSDK.framework in Frameworks */,
+				FD32F58816BA1C7B00D03C75 /* QuartzCore.framework in Frameworks */,
 				FD32F54116BA0E5600D03C75 /* UIKit.framework in Frameworks */,
 				FD32F54316BA0E5600D03C75 /* Foundation.framework in Frameworks */,
 				FD32F54516BA0E5600D03C75 /* CoreGraphics.framework in Frameworks */,
@@ -108,6 +189,11 @@
 		FD32F53F16BA0E5600D03C75 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				FD3F911516BB021F00049958 /* Classes */,
+				FD32F59E16BA384E00D03C75 /* Accounts.framework */,
+				FD32F59F16BA384E00D03C75 /* AdSupport.framework */,
+				FD32F59C16BA382F00D03C75 /* FacebookSDK.framework */,
+				FD32F58716BA1C7B00D03C75 /* QuartzCore.framework */,
 				FD32F54016BA0E5600D03C75 /* UIKit.framework */,
 				FD32F54216BA0E5600D03C75 /* Foundation.framework */,
 				FD32F54416BA0E5600D03C75 /* CoreGraphics.framework */,
@@ -120,10 +206,14 @@
 		FD32F54816BA0E5600D03C75 /* tableandfriends_iOS */ = {
 			isa = PBXGroup;
 			children = (
+				FD3F92FD16C0101D00049958 /* Classes */,
+				FD3F92FC16C0100800049958 /* Views */,
+				FD32F58F16BA2D1D00D03C75 /* assets */,
+				FD32F54916BA0E5600D03C75 /* Supporting Files */,
 				FD32F55116BA0E5600D03C75 /* tfAppDelegate.h */,
 				FD32F55216BA0E5600D03C75 /* tfAppDelegate.m */,
 				FD32F55A16BA0E5600D03C75 /* tableandfriends_iOS.xcdatamodeld */,
-				FD32F54916BA0E5600D03C75 /* Supporting Files */,
+				FD32F57B16BA0E8D00D03C75 /* iPhone_Storyboard.storyboard */,
 			);
 			path = tableandfriends_iOS;
 			sourceTree = "<group>";
@@ -159,6 +249,84 @@
 				FD32F56D16BA0E5600D03C75 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FD32F58F16BA2D1D00D03C75 /* assets */ = {
+			isa = PBXGroup;
+			children = (
+				FD3F92EF16BB18C900049958 /* logo114_57x57.png */,
+				FD3F90F616BAFE1C00049958 /* marquee-plus_new.png */,
+				FD3F90F416BAFB7600049958 /* facebooklogin.png */,
+				FD32F59616BA2F9A00D03C75 /* list.png */,
+				FD32F59816BA2F9A00D03C75 /* users.png */,
+				FD32F58916BA227F00D03C75 /* blueButton.png */,
+				FD32F58A16BA227F00D03C75 /* blueButtonHighlight.png */,
+				FD32F58116BA141D00D03C75 /* bg.jpg */,
+				FD32F57F16BA10B700D03C75 /* logo.png */,
+				FD32F57D16BA105600D03C75 /* ribbon.png */,
+			);
+			name = assets;
+			sourceTree = "<group>";
+		};
+		FD3F911516BB021F00049958 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FD3F911616BB021F00049958 /* NSObject+SBJson.h */,
+				FD3F911716BB021F00049958 /* NSObject+SBJson.m */,
+				FD3F911816BB021F00049958 /* SBJson.h */,
+				FD3F911916BB021F00049958 /* SBJsonParser.h */,
+				FD3F911A16BB021F00049958 /* SBJsonParser.m */,
+				FD3F911B16BB021F00049958 /* SBJsonStreamParser.h */,
+				FD3F911C16BB021F00049958 /* SBJsonStreamParser.m */,
+				FD3F911D16BB021F00049958 /* SBJsonStreamParserAccumulator.h */,
+				FD3F911E16BB021F00049958 /* SBJsonStreamParserAccumulator.m */,
+				FD3F911F16BB021F00049958 /* SBJsonStreamParserAdapter.h */,
+				FD3F912016BB021F00049958 /* SBJsonStreamParserAdapter.m */,
+				FD3F912116BB021F00049958 /* SBJsonStreamParserState.h */,
+				FD3F912216BB021F00049958 /* SBJsonStreamParserState.m */,
+				FD3F912316BB021F00049958 /* SBJsonStreamWriter.h */,
+				FD3F912416BB021F00049958 /* SBJsonStreamWriter.m */,
+				FD3F912516BB021F00049958 /* SBJsonStreamWriterAccumulator.h */,
+				FD3F912616BB021F00049958 /* SBJsonStreamWriterAccumulator.m */,
+				FD3F912716BB021F00049958 /* SBJsonStreamWriterState.h */,
+				FD3F912816BB021F00049958 /* SBJsonStreamWriterState.m */,
+				FD3F912916BB021F00049958 /* SBJsonTokeniser.h */,
+				FD3F912A16BB021F00049958 /* SBJsonTokeniser.m */,
+				FD3F912B16BB021F00049958 /* SBJsonUTF8Stream.h */,
+				FD3F912C16BB021F00049958 /* SBJsonUTF8Stream.m */,
+				FD3F912D16BB021F00049958 /* SBJsonWriter.h */,
+				FD3F912E16BB021F00049958 /* SBJsonWriter.m */,
+			);
+			name = Classes;
+			path = "../../../../json-framework-3.2.0rc1/Classes";
+			sourceTree = "<group>";
+		};
+		FD3F92FC16C0100800049958 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FD32F58316BA172500D03C75 /* tfHomeViewController.h */,
+				FD32F58416BA172500D03C75 /* tfHomeViewController.m */,
+				FD3F90F116BAF8C900049958 /* tfDinnersListViewController.h */,
+				FD3F90F216BAF8C900049958 /* tfDinnersListViewController.m */,
+				FD3F92F616BC340C00049958 /* tfTableViewCell.h */,
+				FD3F92F716BC340C00049958 /* tfTableViewCell.m */,
+				FD3F92F916C00FEF00049958 /* tfCreateDinnerViewController.h */,
+				FD3F92FA16C00FEF00049958 /* tfCreateDinnerViewController.m */,
+				FD3F930416C02D2D00049958 /* tfCollectionViewCell.h */,
+				FD3F930516C02D2D00049958 /* tfCollectionViewCell.m */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		FD3F92FD16C0101D00049958 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				FD3F92F316BB4B5200049958 /* tfDinner.h */,
+				FD3F92F416BB4B5200049958 /* tfDinner.m */,
+				FD3F92FE16C0108E00049958 /* tfFacebookFriend.h */,
+				FD3F92FF16C0108E00049958 /* tfFacebookFriend.m */,
+			);
+			name = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -237,6 +405,17 @@
 				FD32F55516BA0E5600D03C75 /* Default.png in Resources */,
 				FD32F55716BA0E5600D03C75 /* Default@2x.png in Resources */,
 				FD32F55916BA0E5600D03C75 /* Default-568h@2x.png in Resources */,
+				FD32F57C16BA0E8D00D03C75 /* iPhone_Storyboard.storyboard in Resources */,
+				FD32F57E16BA105600D03C75 /* ribbon.png in Resources */,
+				FD32F58016BA10B700D03C75 /* logo.png in Resources */,
+				FD32F58216BA141D00D03C75 /* bg.jpg in Resources */,
+				FD32F58B16BA227F00D03C75 /* blueButton.png in Resources */,
+				FD32F58C16BA227F00D03C75 /* blueButtonHighlight.png in Resources */,
+				FD32F59916BA2F9A00D03C75 /* list.png in Resources */,
+				FD32F59B16BA2F9A00D03C75 /* users.png in Resources */,
+				FD3F90F516BAFB7600049958 /* facebooklogin.png in Resources */,
+				FD3F90F716BAFE1C00049958 /* marquee-plus_new.png in Resources */,
+				FD3F92F016BB18C900049958 /* logo114_57x57.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,9 +450,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FD32F58616BA1C0600D03C75 /* iPhone_Storyboard.storyboard in Sources */,
 				FD32F54F16BA0E5600D03C75 /* main.m in Sources */,
 				FD32F55316BA0E5600D03C75 /* tfAppDelegate.m in Sources */,
 				FD32F55C16BA0E5600D03C75 /* tableandfriends_iOS.xcdatamodeld in Sources */,
+				FD32F58516BA172500D03C75 /* tfHomeViewController.m in Sources */,
+				FD3F90F316BAF8C900049958 /* tfDinnersListViewController.m in Sources */,
+				FD3F92F516BB4B5200049958 /* tfDinner.m in Sources */,
+				FD3F92F816BC340C00049958 /* tfTableViewCell.m in Sources */,
+				FD3F92FB16C00FEF00049958 /* tfCreateDinnerViewController.m in Sources */,
+				FD3F930016C0108E00049958 /* tfFacebookFriend.m in Sources */,
+				FD3F930616C02D2D00049958 /* tfCollectionViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -342,6 +529,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_LDFLAGS = "-lsqlite3.0";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -367,6 +555,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				OTHER_LDFLAGS = "-lsqlite3.0";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -376,6 +565,10 @@
 		FD32F57616BA0E5600D03C75 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../../FacebookSDK\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "tableandfriends_iOS/tableandfriends_iOS-Prefix.pch";
 				INFOPLIST_FILE = "tableandfriends_iOS/tableandfriends_iOS-Info.plist";
@@ -387,6 +580,10 @@
 		FD32F57716BA0E5600D03C75 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../../FacebookSDK\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "tableandfriends_iOS/tableandfriends_iOS-Prefix.pch";
 				INFOPLIST_FILE = "tableandfriends_iOS/tableandfriends_iOS-Info.plist";
@@ -448,6 +645,7 @@
 				FD32F57716BA0E5600D03C75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD32F57816BA0E5600D03C75 /* Build configuration list for PBXNativeTarget "tableandfriends_iOSTests" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +654,7 @@
 				FD32F57A16BA0E5600D03C75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
