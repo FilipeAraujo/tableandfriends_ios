@@ -14,13 +14,13 @@ My first native iOS app. My inspiration was "tableandfriends.com" a social dinni
 
 ![Custom Login form](/screenshots/login.png "Custom Login form")
 
-A custom view with multiple images and buttons handlers for facebook login
+A custom view with multiple images and buttons handlers for facebook login.
 
 ## Facebook Login
 
 ![Facebook Login](/screenshots/facebooklogin.png "Facebook Login")
 
-The web page that facebook sdk shows when an user logs in
+The web page that facebook sdk shows when an user logs in.
 
 ## Reading json from an remote api
 
