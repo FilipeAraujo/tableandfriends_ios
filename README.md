@@ -12,9 +12,9 @@ My first native iOS app. My inspiration was "tableandfriends.com" a social dinni
 
 ## Screenshot
 
-![Custom Login form](/screenshots/login.jpg "Custom Login form")
-![Facebook Login](/screenshots/facebooklogin.jpg "Facebook Login")
-![Reading json from an api](/screenshots/assyncjson.jpg "Reading json from an api")
-![Custom table view](/screenshots/fulllist_customviews.jpg "Custom table view")
-![Custom collection view with facebook friends](/screenshots/facebookfriends_assyncdownload.jpg "Custom collection view with facebook friends")
+![Custom Login form](/screenshots/login.png "Custom Login form")
+![Facebook Login](/screenshots/facebooklogin.png "Facebook Login")
+![Reading json from an api](/screenshots/assyncjson.png "Reading json from an api")
+![Custom table view](/screenshots/fulllist_customviews.png "Custom table view")
+![Custom collection view with facebook friends](/screenshots/facebookfriends_assyncdownload.png "Custom collection view with facebook friends")
 
