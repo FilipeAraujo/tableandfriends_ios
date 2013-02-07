@@ -2,7 +2,7 @@
 
 ## About
 
-My first native iOS app. My inspiration was "tableandfriends.com" a social dinning app, with two main objectives: Either joining/creating public themed meals or creating private meals which can be attended exclusively upon invitation. 
+My first native iOS app (with minimal assets). My inspiration was "tableandfriends.com" a social dinning app, with two main objectives: Either joining/creating public themed meals or creating private meals which can be attended exclusively upon invitation. 
 
 ## Dev. stuff
 
