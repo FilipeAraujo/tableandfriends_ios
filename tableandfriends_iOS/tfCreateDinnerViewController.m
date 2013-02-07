@@ -102,12 +102,14 @@
 - (BOOL)collectionView:(UICollectionView *)collectionView shouldSelectItemAtIndexPath:(NSIndexPath *)indexPath
 {
     tfCollectionViewCell *cell = (tfCollectionViewCell*)[collectionView cellForItemAtIndexPath:indexPath];
+    cell.label.textColor = [UIColor blackColor];
     return cell.selectedT;
 }
 
 - (BOOL)collectionView:(UICollectionView *)collectionView shouldDeselectItemAtIndexPath:(NSIndexPath *)indexPath
 {
     tfCollectionViewCell *cell = (tfCollectionViewCell*)[collectionView cellForItemAtIndexPath:indexPath];
+    cell.label.textColor = [UIColor whiteColor];
     return !cell.selectedT;
 }
 
@@ -117,7 +119,7 @@
     tfCollectionViewCell *cell = [collectionViewForm dequeueReusableCellWithReuseIdentifier:@"Cell" forIndexPath:indexPath];
   
     UIView *view = [[UIView alloc] init];
-    [view setBackgroundColor: [UIColor blueColor]];
+    [view setBackgroundColor: [UIColor blackColor]];
     cell.selectedBackgroundView =view;
     
     int pos = 0;
