@@ -22,7 +22,7 @@ A custom view with multiple images and buttons handlers for facebook login.
 
 The web page that facebook sdk shows when an user logs in.
 
-## Reading json from an remote api
+## Reading JSON from an remote API
 
 ![Reading json from an api](/screenshots/assyncjson.png "Reading json from an api")
 
@@ -34,7 +34,7 @@ An example of assyncronous reading of a json from an api (table and friends) and
 
 A custom table view with multiple images, labels, and text. The image shows when all json objects were read.
 
-## Custom collection view with facebook friends
+## Custom collection view with Facebook friends
 
 ![Custom collection view with facebook friends](/screenshots/facebookfriends_assyncdownload.png "Custom collection view with facebook friends")
 
