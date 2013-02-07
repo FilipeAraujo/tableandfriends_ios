@@ -8,7 +8,7 @@ My first native iOS app. My inspiration was "tableandfriends.com" a social dinni
 
 - Xcode 4.6
 - iOS 6.1 (using ARC, GCD and storyboard)
-- Facebook SDK (for testing purpose its necessary a facebook key)
+- Facebook SDK (for testing purpose its necessary a Facebook key)
 
 ## Custom Login form
 
@@ -22,11 +22,11 @@ A custom view with multiple images and buttons handlers for facebook login.
 
 The web page that facebook sdk shows when an user logs in.
 
-## Reading JSON objects from an remote API
+## Reading JSON objects from a remote API
 
 ![Reading JSON objects from an remote API](/screenshots/assyncjson.png "Reading JSON objects from an remote API")
 
-An example of assyncronous reading of a json from an api (table and friends) and image download.
+An example of assyncronous reading of a JSON from an API (Table and Friends) and image download.
 
 ## Custom table view
 
@@ -38,5 +38,5 @@ A custom table view with multiple images, labels, and text. The image shows when
 
 ![Custom collection view with Facebook friends](/screenshots/facebookfriends_assyncdownload.png "Custom collection view with Facebook friends")
 
-A custom collection view that shows user's facebook friends and multiple choice possibility.
+A custom collection view that shows user's Facebook friends and multiple choice possibility.
 
