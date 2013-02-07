@@ -47,6 +47,7 @@
 		FD3F92FB16C00FEF00049958 /* tfCreateDinnerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F92FA16C00FEF00049958 /* tfCreateDinnerViewController.m */; };
 		FD3F930016C0108E00049958 /* tfFacebookFriend.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F92FF16C0108E00049958 /* tfFacebookFriend.m */; };
 		FD3F930616C02D2D00049958 /* tfCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F930516C02D2D00049958 /* tfCollectionViewCell.m */; };
+		FD3F930816C33CAD00049958 /* logo114_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = FD3F930716C33CAD00049958 /* logo114_57x57.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -135,6 +136,7 @@
 		FD3F92FF16C0108E00049958 /* tfFacebookFriend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfFacebookFriend.m; sourceTree = "<group>"; };
 		FD3F930416C02D2D00049958 /* tfCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfCollectionViewCell.h; sourceTree = "<group>"; };
 		FD3F930516C02D2D00049958 /* tfCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfCollectionViewCell.m; sourceTree = "<group>"; };
+		FD3F930716C33CAD00049958 /* logo114_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo114_57x57.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -254,6 +256,7 @@
 		FD32F58F16BA2D1D00D03C75 /* assets */ = {
 			isa = PBXGroup;
 			children = (
+				FD3F930716C33CAD00049958 /* logo114_57x57.png */,
 				FD3F92EF16BB18C900049958 /* logo114_57x57.png */,
 				FD3F90F616BAFE1C00049958 /* marquee-plus_new.png */,
 				FD3F90F416BAFB7600049958 /* facebooklogin.png */,
@@ -416,6 +419,7 @@
 				FD3F90F516BAFB7600049958 /* facebooklogin.png in Resources */,
 				FD3F90F716BAFE1C00049958 /* marquee-plus_new.png in Resources */,
 				FD3F92F016BB18C900049958 /* logo114_57x57.png in Resources */,
+				FD3F930816C33CAD00049958 /* logo114_57x57.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
