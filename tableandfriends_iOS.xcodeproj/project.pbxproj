@@ -41,7 +41,6 @@
 		FD3F90F316BAF8C900049958 /* tfDinnersListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F90F216BAF8C900049958 /* tfDinnersListViewController.m */; };
 		FD3F90F516BAFB7600049958 /* facebooklogin.png in Resources */ = {isa = PBXBuildFile; fileRef = FD3F90F416BAFB7600049958 /* facebooklogin.png */; };
 		FD3F90F716BAFE1C00049958 /* marquee-plus_new.png in Resources */ = {isa = PBXBuildFile; fileRef = FD3F90F616BAFE1C00049958 /* marquee-plus_new.png */; };
-		FD3F92F016BB18C900049958 /* logo114_57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = FD3F92EF16BB18C900049958 /* logo114_57x57.png */; };
 		FD3F92F516BB4B5200049958 /* tfDinner.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F92F416BB4B5200049958 /* tfDinner.m */; };
 		FD3F92F816BC340C00049958 /* tfTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F92F716BC340C00049958 /* tfTableViewCell.m */; };
 		FD3F92FB16C00FEF00049958 /* tfCreateDinnerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FD3F92FA16C00FEF00049958 /* tfCreateDinnerViewController.m */; };
@@ -125,7 +124,6 @@
 		FD3F912C16BB021F00049958 /* SBJsonUTF8Stream.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonUTF8Stream.m; sourceTree = "<group>"; };
 		FD3F912D16BB021F00049958 /* SBJsonWriter.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SBJsonWriter.h; sourceTree = "<group>"; };
 		FD3F912E16BB021F00049958 /* SBJsonWriter.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBJsonWriter.m; sourceTree = "<group>"; };
-		FD3F92EF16BB18C900049958 /* logo114_57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo114_57x57.png; path = ../logo114_57x57.png; sourceTree = "<group>"; };
 		FD3F92F316BB4B5200049958 /* tfDinner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfDinner.h; sourceTree = "<group>"; };
 		FD3F92F416BB4B5200049958 /* tfDinner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = tfDinner.m; sourceTree = "<group>"; };
 		FD3F92F616BC340C00049958 /* tfTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = tfTableViewCell.h; sourceTree = "<group>"; };
@@ -257,7 +255,6 @@
 			isa = PBXGroup;
 			children = (
 				FD3F930716C33CAD00049958 /* logo114_57x57.png */,
-				FD3F92EF16BB18C900049958 /* logo114_57x57.png */,
 				FD3F90F616BAFE1C00049958 /* marquee-plus_new.png */,
 				FD3F90F416BAFB7600049958 /* facebooklogin.png */,
 				FD32F59616BA2F9A00D03C75 /* list.png */,
@@ -418,7 +415,6 @@
 				FD32F59B16BA2F9A00D03C75 /* users.png in Resources */,
 				FD3F90F516BAFB7600049958 /* facebooklogin.png in Resources */,
 				FD3F90F716BAFE1C00049958 /* marquee-plus_new.png in Resources */,
-				FD3F92F016BB18C900049958 /* logo114_57x57.png in Resources */,
 				FD3F930816C33CAD00049958 /* logo114_57x57.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
