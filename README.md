@@ -6,8 +6,8 @@ My first native iOS app. My inspiration was "tableandfriends.com" a social dinni
 Dev stuff
 ===================
 
-- xcode 4.6
+- Xcode 4.6
 - iOS 6.1 (using ARC, GCD and storyboard)
-- facebook SDK (for testing purpose its necessary a facebook key)
+- Facebook SDK (for testing purpose its necessary a facebook key)
 
 
